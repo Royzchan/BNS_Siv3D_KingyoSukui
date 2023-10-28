@@ -1,0 +1,2 @@
+# BNS_Siv3D_KingyoSukui
+バンナムSiv3D杯に使うリポジトリ
